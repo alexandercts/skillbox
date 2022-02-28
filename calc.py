@@ -9,7 +9,7 @@ elif x == "*":
 	print("a * b =", a * b)
 elif x == "/":
 	if b == 0:
-		print("Ошибка! НА ноль делить нельзя")
+		print("Ошибка! На ноль делить нельзя!")
 	else:
 		print("a / b =", a / b)
 else:
